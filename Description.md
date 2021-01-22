@@ -126,10 +126,11 @@ If a query runs 10 times faster on a database it should increase the speed theor
 
 
 ## Project status:
-   Created a Dynamic webpage where in user can enter enter his name,Id and email and all those dta get stored in the database created 
+   <pre>
+   Created a Dynamic webpage where in user can enter enter his name,Id and email and all those data get stored in the database created.
    Please refer https://github.com/MeghrajBhanu/NetBeansProject/blob/main/README.md for the code.
    Data base used for the project:
-   <p>
+   
    {
     "token": "90937141|-31948799583822676|90931330",
     "cmd": "PUT",
@@ -142,7 +143,7 @@ If a query runs 10 times faster on a database it should increase the speed theor
         "empEmail": "sulbhamishra@gmail.com",
     	}
 	}
-   </p>
+   </pre>
    
 
 ## sources:
