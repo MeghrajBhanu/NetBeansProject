@@ -16,13 +16,12 @@ If a query runs 10 times faster on a database it should increase the speed theor
 </pre> 
 
 ## Features of JsonPowerDB:
-   
-      	  1.It is multi-mode DataBase.
-	  2.It is simple to use.
-	  3.Schema free
-	  4.Multiple security layers.
-	  5.A single instance-Million Indexes.
-	 
+		  1.It is multi-mode DataBase.
+		  2.It is simple to use.
+		  3.Schema free
+		  4.Multiple security layers.
+		  5.A single instance-Million Indexes.
+
 ## Benefits of using JsonPowerDB:
 
       1.Minimum Development Cost.
