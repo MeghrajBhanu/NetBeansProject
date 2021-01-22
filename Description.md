@@ -48,7 +48,7 @@
   Now open Talend API Tester And save a file and add following commands to the body to create a database.
   
   ### PUT COMMAND:
-  
+  ```
    {
     "token": "90937141|-31948799583822676|90931330",
     "cmd": "PUT",
@@ -61,6 +61,7 @@
         "empEmail": "sulbhamishra@gmail.com",
     	}
 	}
+  ```
 	
 	The above code will create a database Employee with relation Emp-Rel with name,id,email as coloumns.
 	
@@ -127,7 +128,7 @@
 
 ## Project status:
    Created a Dynamic webpage where in user can enter enter his name,Id and email and all those dta get stored in the database created 
-   Please refer Readme.md for the code
+   Please refer https://github.com/MeghrajBhanu/NetBeansProject/blob/main/README.md for the code.
    Data base used for the project:
    
    {
@@ -147,7 +148,7 @@
 
 
 ## sources:
-	   *Net Beans IDE
-	   *JPDB  
+	   1.Net Beans IDE
+	   2.JPDB  
   
   
