@@ -1,23 +1,23 @@
 # Creating a WebProject In NetBeans
 
 ## Table of Contents
-*Description
-*Features of JsonPowerDB
-*Benefits of using JsonPowerDB
-*Examples of use
-*Project status
-*Sources
+	*Description
+	*Features of JsonPowerDB
+	*Benefits of using JsonPowerDB
+	*Examples of use
+	*Project status
+	*Sources
 
 
 ## Descripion:
-
-    
-      Javascript Object Notation is having explosive growth in recent years due to it's speed.If a query runs 10 times faster on a database it should increase the speed theoretically by 10 times and practically by 7-8 times,so market will always welcome this new technology as it increases efficency and reduces cost.
-   
+<pre>
+Javascript Object Notation is having explosive growth in recent years due to it's speed.
+If a query runs 10 times faster on a database it should increase the speed theoretically by 10 times and practically by 7-8 times,so market will always welcome this new technology as it increases efficency and reduces cost.
+</pre> 
 
 ## Features of JsonPowerDB:
    
-      1.It is multi-mode DataBase.
+      	  1.It is multi-mode DataBase.
 	  2.It is simple to use.
 	  3.Schema free
 	  4.Multiple security layers.
@@ -149,6 +149,8 @@
 ## sources:
 	   1.Net Beans IDE
 	   2.JPDB  
+	   3.https://www.youtube.com/watch?v=fKWH_Rs7t6s&feature=emb_logo
+
     
   
   
